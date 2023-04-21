@@ -1,4 +1,4 @@
-# User Guide for Collaborating with Me
+# Guide for Collaborating with Me
 Useful information related to the way I work and how we can collaborate better.
 
 ### Processes/Rituals
@@ -17,10 +17,10 @@ Useful information related to the way I work and how we can collaborate better.
 - If I am directly pinged in Slack I respond as soon as I see the notification
 - [Please don't just say hello](https://no-hello.com)
 
-### Misc.
-- I prefer a combo of Google Docs tables and dropdown pills over a JIRA board
-- I like smaller teams
-- I use Vim btw (unless I'm writing Java)
+<!-- ### Misc. -->
+<!-- - I prefer a combo of Google Docs tables and dropdown pills over a JIRA board -->
+<!-- - I like smaller teams -->
+<!-- - I use Vim btw (unless I'm writing Java) -->
 
 ---
 No, that is not the rabbit from Donnie Darko. It's a Kangaroo.
