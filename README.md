@@ -7,7 +7,7 @@ Useful information related to the way I work and how we can collaborate better.
 - I start reviewing pull requests around 4-5pm EST
 
 ### Communication
-- I check my community email (reuben@nats.io) regularly 
+- I check my community email (reuben at nats dot io) regularly 
 - If I am directly pinged in Slack I respond as soon as I see the notification
 - [Please don't just say hello](https://no-hello.com)
 
